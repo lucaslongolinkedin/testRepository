@@ -1,0 +1,17 @@
+Filename,Duration,Audio Sample Rate,Audio Codec,Dimensions,Frame Rate (FPS),Video Codec,Size,Audio Data Rate,Video Data Rate
+4359497_en_US_00_01_XR30.mov,00:06:36,48000 Hz,pcm_s16be,1920x1080,29.97 fps,prores,6.6GB,1536 kb/s,142260 kb/s
+4359497_en_US_00_02_XR30.mov,00:07:44,48000 Hz,pcm_s16be,1920x1080,29.97 fps,prores,7.7GB,1536 kb/s,141342 kb/s
+,,,,,,,,,
+4359497_en_US_01_01_XR30.mov,00:06:09,48000 Hz,alac,2880x1620,28.08 fps,h264,73.0MB,318 kb/s,1336 kb/s
+4359497_en_US_01_02_XR30.mov,00:03:56,48000 Hz,alac,2880x1620,29.92 fps,h264,44.6MB,293 kb/s,1285 kb/s
+4359497_en_US_01_03_XR30.mov,00:09:43,48000 Hz,alac,2880x1620,28.05 fps,h264,189.9MB,303 kb/s,2421 kb/s
+,,,,,,,,,
+4359497_en_US_02_01_XR30.mov,00:07:08,48000 Hz,alac,2880x1620,29.85 fps,h264,83.5MB,300 kb/s,1328 kb/s
+4359497_en_US_02_02_XR30.mov,00:07:30,48000 Hz,alac,2880x1620,28.89 fps,h264,107.6MB,290 kb/s,1709 kb/s
+4359497_en_US_02_03_XR30.mov,00:07:29,48000 Hz,alac,2880x1620,29 fps,h264,59.4MB,292 kb/s,811 kb/s
+,,,,,,,,,
+4359497_en_US_03_01_XR30.mov,00:08:05,48000 Hz,alac,2880x1620,29.43 fps,h264,131.2MB,315 kb/s,1945 kb/s
+4359497_en_US_03_02_XR30.mov,00:05:42,48000 Hz,alac,2880x1620,29.54 fps,h264,35.0MB,301 kb/s,552 kb/s
+4359497_en_US_03_03_XR30.mov,00:07:33,48000 Hz,alac,2880x1620,26.71 fps,h264,110.8MB,313 kb/s,1732 kb/s
+,,,,,,,,,
+4359497_en_US_04_01_XR30.mov,00:01:57,48000 Hz,alac,2880x1620,30 fps,h264,8.9MB,501 kb/s,131 kb/s
